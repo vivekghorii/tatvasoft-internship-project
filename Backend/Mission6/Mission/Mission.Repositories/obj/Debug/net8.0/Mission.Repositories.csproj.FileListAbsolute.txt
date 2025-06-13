@@ -1,0 +1,60 @@
+D:\Summer Internship\Demo\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+D:\Summer Internship\Demo\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+D:\Summer Internship\Demo\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+D:\Summer Internship\Demo\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+D:\Summer Internship\Demo\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+D:\Summer Internship\Demo\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+D:\Summer Internship\Demo\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Summer Internship\Demo\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+D:\Summer Internship\Demo\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+D:\Summer Internship\Demo\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+D:\Summer Internship\Demo\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+D:\Summer Internship\Demo\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+D:\Summer Internship\Demo\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+D:\Summer Internship\Demo\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+D:\Summer Internship\Demo\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
+D:\Summer Internship\Day 12 Other\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+D:\Summer Internship\Day 12 Other\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+D:\Summer Internship\Day 12 Other\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+D:\Summer Internship\Day 12 Other\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+D:\Summer Internship\Day 12 Other\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+D:\Summer Internship\Day 12 Other\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+D:\Summer Internship\Day 12 Other\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Summer Internship\Day 12 Other\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+D:\Summer Internship\Day 12 Other\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+D:\Summer Internship\Day 12 Other\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+D:\Summer Internship\Day 12 Other\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+D:\Summer Internship\Day 12 Other\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+D:\Summer Internship\Day 12 Other\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+D:\Summer Internship\Day 12 Other\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+D:\Summer Internship\Day 12 Other\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
+D:\Summer Internship\Day 13 Other\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+D:\Summer Internship\Day 13 Other\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+D:\Summer Internship\Day 13 Other\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+D:\Summer Internship\Day 13 Other\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+D:\Summer Internship\Day 13 Other\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+D:\Summer Internship\Day 13 Other\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+D:\Summer Internship\Day 13 Other\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Summer Internship\Day 13 Other\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+D:\Summer Internship\Day 13 Other\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+D:\Summer Internship\Day 13 Other\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+D:\Summer Internship\Day 13 Other\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+D:\Summer Internship\Day 13 Other\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+D:\Summer Internship\Day 13 Other\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+D:\Summer Internship\Day 13 Other\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+D:\Summer Internship\Day 13 Other\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
+E:\Mission6\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+E:\Mission6\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+E:\Mission6\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+E:\Mission6\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+E:\Mission6\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+E:\Mission6\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+E:\Mission6\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mission6\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+E:\Mission6\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+E:\Mission6\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+E:\Mission6\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+E:\Mission6\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+E:\Mission6\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+E:\Mission6\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+E:\Mission6\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
